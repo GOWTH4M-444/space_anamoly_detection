@@ -1,0 +1,9 @@
+# large generated files (trained models, predictions); keep them out of git
+outputs/
+data/
+*.pt
+*.npz
+# python / notebook artifacts
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

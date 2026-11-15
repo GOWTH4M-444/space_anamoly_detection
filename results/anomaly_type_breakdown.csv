@@ -1,0 +1,3 @@
+anomaly_class,found,total,recall
+point,30,58,0.517
+contextual,7,43,0.163
